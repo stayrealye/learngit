@@ -1,2 +1,4 @@
 diffrence between ff and no-ff merge
 let me see 
+
+stash 
